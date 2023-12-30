@@ -1,0 +1,39 @@
+img {
+  width: 50%;
+  height: 70%;
+  display: flex;
+  justify-content: space-between;
+  justify-items: center;
+  align-items: center;
+  gap: 20px;
+}
+
+p {
+  text-align: center;
+}
+
+#one {
+  float: left;
+  display: flex;
+  flex-direction: column;
+}
+#two {
+  float: right;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  justify-items: center;
+  align-items: center;
+}
